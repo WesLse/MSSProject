@@ -2,4 +2,4 @@
 
 Mobile Smart System Term Project with Python
 
-* MP3 Player with Raspberry Pie *
+* MP3 Player with Raspberry Pie
